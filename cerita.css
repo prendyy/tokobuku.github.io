@@ -1,0 +1,152 @@
+*{
+    margin:0;
+}
+.container{
+    width:80%;
+    height:90%;
+    background-color:darkblue;
+    margin: auto;
+    
+    
+}
+.header{
+    width:100%;
+    height:70px;
+    background-color: pink;
+    margin: auto;
+}
+h1{
+    padding-left: 15px;
+    padding-top: 15px;
+    text-align: center;
+}
+.plhn-book{
+    width:25%;
+    height:70px;
+    background-color: palevioletred;
+    margin: auto; 
+    margin-top: 20px;
+    border-radius: 30px;
+    box-shadow: 0px 3px 40px;
+}
+h2{
+    text-align: center;
+    padding-top: 15px;
+}
+.menu{
+    width:100%;
+    height:7%;
+    background-color: white;
+    margin: auto;
+    margin-top:10px;
+    display: flex;
+}
+.buku-cerita{
+    width: 15%;
+    height:50px;
+    background-color: green;
+    margin: auto;
+    border-radius:15px;
+    box-shadow: 0px 3px 40px;
+}
+.buku-cerita:hover{
+    background-color:azure;
+}
+.buku-novel{
+    width: 15%;
+    height:50px;
+    background-color:skyblue;
+    margin: auto;
+    border-radius:15px;
+    box-shadow: 0px 3px 40px;
+}
+.buku-novel:hover{
+    background-color:azure;
+}
+.buku-pantun{
+    width: 15%;
+    height: 50px;
+    background-color: yellow;
+    margin: auto;
+    border-radius:15px;
+    box-shadow: 0px 3px 40px;
+}
+.buku-pantun:hover{
+    background-color:azure;
+}
+.buku-puisi{
+    width: 15%;
+    height: 50px;
+    background-color:brown;
+    margin: auto;
+    border-radius:15px;
+    box-shadow: 0px 3px 40px;
+}
+.buku-puisi:hover{
+    background-color:azure;
+}
+h4{
+    text-align: center;
+    margin-top: 15px;
+    color:hotpink;
+}
+.content{
+    width:100%;
+    height:240px;
+    background-color: paleturquoise;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+}
+.book{
+    width: 10%;
+    height: 200px;
+    background-color:antiquewhite;
+    box-shadow: 0px 0px 40px 5px;
+    margin-top: 15px;
+}
+.book:hover{
+    background-color: darkgray;
+}
+.footer{
+    width:100%;
+    height:9%;
+    background-color: darkcyan;
+    padding-top: 20px;
+}
+.tbl{
+    width:10%;
+    height: 50px;
+    background-color: skyblue;
+    margin-left: 15px;
+    border-radius:15px;
+    margin: auto;   
+    box-shadow: 0px 3px 40px;
+}
+.tbl:hover{
+    background-color: darkgray;
+    color:beige;
+}
+h3{
+    color:black;
+    text-align: center;
+    padding-top:15px;
+}
+.gbr{
+    width:100%;
+    height:180px;
+    box-shadow: 
+}
+h5{
+    color:black;
+    text-align: center;
+    margin-top:4px;
+}
+#tkx{
+    text-align: center;
+}
+h5:hover{
+    background-color:darkgray;
+    color: yellow;
+}

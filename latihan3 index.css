@@ -1,0 +1,134 @@
+
+.container{
+    width:100%;
+    height:1000px;
+    background-color:white;
+    
+}
+.header{
+    width:100%;
+    height:80px;
+    background-color:darkred;
+}
+.content{
+    width:100%;
+    height:50px;
+    background-color:orange;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+
+h3{
+    color:white;
+}
+.jdl{
+    color:white;
+}
+.txt{
+    color:black;
+    text-align:center;
+}
+.gbr{
+    width:100%;
+    height:400px;
+    background-color:black;
+}
+img{
+    width:100%;
+    height:400px;
+}
+.footer{
+    width:100%;
+    height:800px;
+    background-color:whit;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+.kiri{
+    width:24%;
+    height:800px;
+    background-color:white;
+}
+.tengah{
+    width:49%;
+    height:800px;
+    background-color:white;
+}
+.kanan{
+    width:24%;
+    height:800px;
+    background-color:white;
+   
+}
+.tombol{
+    width:90%;
+    height:50px;
+    background-color:crimson;
+    margin:auto;
+	border-radius: 20px;
+}
+.tb{
+    color:white;
+    text-align:center;
+    padding-top:15px;
+}
+.toombol{
+    width:19%;
+    height:28px;
+    background-color:darkolivegreen;
+    border-radius: 20px;
+    
+}
+.def{
+    color:white;
+    text-align:center;
+    padding-top:4px;
+}  
+h5{
+    color:crimson;
+    text-align:center;
+    
+}
+.uy{
+    width:100%;
+    height:250px;
+    border-radius:20px; 
+}
+.bwh{
+    width:30%;
+    height:30px;
+    background-color:orangered;
+    border-radius: 20px;
+}
+.slp{
+    text-align:center;
+    padding-top:4px;
+}
+.knn{
+    width:91%;
+    height:200px;
+    justify-content:space-around;
+    margin-left:21px;
+    border-radius: 20px;
+    margin-bottom: 2px;
+}
+
+
+.ezz{
+    text-align: center;
+}
+.dftr{
+	width: 20%;
+	height: 50px;
+	background-color: #fd9b3b;
+}
+.dftr:hover{
+	background-color: yellow;
+}
+.kaki{
+	width: 100%;
+	height:40px;
+	background-color: darkred
+}

@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+}
+.menu{
+    width:100%;
+    height:100px;
+    background-color:#459bee;
+    margin: auto;
+    z-index:1;
+    position:fixed;
+}
+.container{
+    width: 100%;
+    /*height: 1000px;*/
+    background-color: cadetblue;
+    margin: auto;
+    padding-top: 100px;
+}
+.header{
+    width: 100%;
+    height: 500px;
+    background-color: darkgray;
+    display: flex;
+}
+.teks{
+    width: 50%;
+    height: 500px;
+    background-color:#459bee;
+}
+.gbr1{
+    width:50%;
+    height: 500px;
+    background-color:#4d9eef;
+}
+.gbr-utama{
+    height: 500px;
+    
+}
+.sub-menu1{
+    width: 60%;
+    height:100px;
+    display: flex;
+    margin-left: 600px;
+}
+.menu-bar{
+    width: 100px;
+    height: 100px;
+    padding-top:1px;
+}
+p{
+    color: white;
+    text-align: center; 
+
+}
+.menu-bar:hover{
+    background-color:skyblue;
+    height: 50px;
+    border-radius: 20px;
+}
+.frame{
+    width:80%;
+    height:400px;
+  /*  background-color: brown;*/
+    margin: auto;
+}
+.tombol-saya{
+    width: 150px;
+    height:50px;
+    background-color:darkblue;
+    border-radius:30px;
+    margin: auto;
+    margin-top: 20px;
+}
+.a{
+    color: black;
+    padding-top: 20px;
+}
+#b{
+    color: yellow;
+    padding-top: 15px;
+}
+h1{
+    text-align: center;
+}
+#b:hover{
+    color:black;
+}
+.tombol-saya:hover{
+    background-color: white;
+}
+.content{
+    width: 100%;
+    height:500px;
+    background-color: black;
+    display: flex;
+}
+.isi{
+    width: 80%;
+    height: 500px;
+    background-color: aqua;
+    margin: auto;
+}
+.side-menu{
+    width: 20%;
+    height: 500px;
+    background-color:cadetblue;
+    overflow: scroll;
+}
+.card-gbr{
+    width: 180px;
+    height: 300px;
+    background-color: white;
+    margin: auto;
+    border-radius: 25px;
+}
+.card-info{
+    width: 180px;
+    height: 120px;
+    background-color:darkred;
+    margin: auto;
+    border-radius:25px;
+}
+.card-tbl{
+    width: 50px;
+    height: 40px;
+    background-color: darkblue;
+    margin: auto;
+    border-radius:12px;
+    margin-top:10px;
+}
+.fto{
+    width: 180px;
+    height: 300px;
+    border-radius:25px;
+}
+p{
+    text-align: center;
+    color:white;
+}
+#tbl-beli{
+    color: yellow;
+    padding-top: 9px;
+    
+}
+.card-info:hover{
+    background-color:lightskyblue;
+    
+}
+p:hover{
+    color: darkblue;
+}
+.card-tbl:hover{
+    background-color: greenyellow;
+}
+.card:hover{
+    background-color:darkblue;
+}
+.card{
+    width:200px;
+    height:490px;
+    background-color:cadetblue;
+    padding-top: 10px;
+    margin: auto;
+    overflow: auto;
+}
+h4{
+    text-align: center;
+    padding-top:15px;
+}
+h4{
+    color: white;
+}
+p{
+    padding-top:25px;
+}
+.sampul{
+    width: 100%;
+    height:500px;
+    background-color:cadetblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.video{
+    width: 21%;
+    height:200px;
+    background-color:darkblue;
+    margin-top:10px;
+}
+li:hover{
+    background-color: aqua;
+    width: 20%;
+}
+#tulisan{
+    color: black;
+    text-align:justify;
+    padding: 10px;
+    overflow: scroll;
+    height: 200px;
+}
+.info-diri{
+    width:80%;
+    height:500px;
+    background-color: white;
+    margin: auto;
+    margin-top:20px;
+}
+#links{
+    margin-left:10px;
+    margin-top: 20px;
+    background-color: darkblue;
+    color: white;
+    width: 30%;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom: 20px;
+}
+#ket-bab1{
+    margin-left: 20px;
+    margin-top:20px;
+    background-color:darkblue;
+    width: 10%;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+#gbr-bab1{
+    width: 10%;
+    height: 100px;
+    background-color: white;
+}
+#icon{
+    width: 100%;
+   ;
+}
+#bag1{
+    display: flex;
+}
+.info-saya{
+    width: 300px;
+    height: 50px;
+   /* background-color: white;*/
+    margin-left: 170px;
+    display: flex;
+    margin-top: 20px;
+}
+.icon-saya{
+    height: 50px;
+    width:50px;
+}
+.nama{
+    height: 50px;
+    width: 100%;
+}
+.nama-diri{
+    padding-top: 10px;
+    padding-left: 10px;
+}
